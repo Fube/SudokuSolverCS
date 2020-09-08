@@ -160,7 +160,7 @@ namespace SudokuSolver
              * Btw, 0 means that it is an empty value.
              **/
             Grid sudoku = new Grid(new int[] {
-                9, 0, 5,
+                0, 0, 0,
                 2, 6, 0,
                 7, 0, 1,
 
