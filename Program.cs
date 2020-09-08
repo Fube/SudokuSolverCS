@@ -159,8 +159,8 @@ namespace SudokuSolver
              * It is currently 12:48 AM. This is as good as it gets for now.
              * Btw, 0 means that it is an empty value.
              **/
-            Grid sudoku = new Grid(new int[] {
-                1, 2, 8,
+            Grid sudodu = new Grid(new int[] {
+                0, 0, 69,
                 2, 6, 0,
                 7, 0, 1,
 
